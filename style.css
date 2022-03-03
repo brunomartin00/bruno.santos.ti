@@ -1,0 +1,57 @@
+@charset "UTF-8;"
+*{
+    font-family: Arial, Helvetica, sans-serif
+    ;
+    
+}
+body {
+background-color: #D9EDF8;
+}
+main{
+    background-color: #5E87B5 ;
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+h1{
+    text-align: center;
+    color: #9AEBA3;
+    text-shadow: 3px 3px 3px black;
+}
+h2{
+    text-align: center;
+    color: #9AEBA3;
+    text-shadow: 3px 3px 3px black;}
+    p{
+        margin: auto;
+    }
+    h3{
+        text-align: left;
+        color: #9AEBA3;
+        text-shadow: 3px 3px 3px black;
+    }
+    h5{
+        color: #9AEBA3;
+        text-shadow: 3px 3px 3px black;
+        text-align: center;
+    }
+    video{
+    border-radius: 20px;
+    margin: auto;
+    }
+    h4{
+        text-align: 0;
+        color: #9AEBA3;
+        text-shadow: 3px 3px 3px 
+        black;
+    }
+    h2{
+        border-radius: 20px;
+    }
+    p{
+        border-radius: 20px;
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tjZQnk5j6Zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{
+            border-radius: 10px;}
+        }
